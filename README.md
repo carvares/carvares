@@ -1,6 +1,6 @@
 ## Hello World, i'm Lucas👋
 
-### I'm a Full Stack Web Developer, Statistics Student and a Tech lover.
+### I'm a Full Stack Web Developer, Software engineer Student and a Tech lover.
 
 
 - 💬 Feel free to contact me
