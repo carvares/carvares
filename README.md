@@ -15,7 +15,7 @@
 
 <div>
 <a href=https://github.com/carvares>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carvares&count_private=true&show_icons=true&theme=radical&include_all_commits=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carvares&count_private=true&show_icons=true&theme=radical&include_all_commits=true&layout=compact">
   <img height="180m" src="https://github-readme-stats.vercel.app/api?username=carvares&show_icons=true&theme=radical&count_private=true&include_all_commits=true">
 </a>
 
