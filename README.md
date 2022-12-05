@@ -21,7 +21,7 @@
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 </div>
 
-<img style='border-radius: 10px; width: 380px;' src="https://images.ctfassets.net/b4k16c7lw5ut/blog-Simpson-GIF.gif/6ecb9e86a6619635f53c7d2285ac052b/Simpson-GIF.gif" />
+
 </div>
 
 
@@ -32,5 +32,10 @@
 </a>
 
 </div>
+<style>
+  img{
+    border-radius: 10px;
+  }
+</style>
 
 
