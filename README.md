@@ -6,7 +6,7 @@
 - 💬 Feel free to contact me
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I know very specific curiosities about almost everything 😊
-
+- The most significant projects are stored in the company's private repository. I currently do not have the time to create public projects solely for demonstration purposes. 
 ### Languages and Tools:
 
 <div style="display:flex; margin-bottom: 40px; width:100%">
